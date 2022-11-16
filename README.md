@@ -1,6 +1,4 @@
 # misc-code
-a bunch od miscellaneous code projects
 
-HALLO DU.
+Detter er eit test reposetory det kjem meir seinare.
 
-hei hei
